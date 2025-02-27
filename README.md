@@ -1,5 +1,3 @@
-# IS4116-data-analysis-script
-
 # Placement Analysis - Factors Affecting Campus Placement
 
 ## 📌 Overview
